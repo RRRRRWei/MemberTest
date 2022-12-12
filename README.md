@@ -9,8 +9,9 @@
 
 * **欄位資料驗證**
 
-![欄位空白驗證](https://github.com/RRRRRWei/MemberTest/blob/main/pic/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2%E7%A9%BA%E7%99%BD%E9%A9%97%E8%AD%89.PNG)
-![欄位資料驗證](https://github.com/RRRRRWei/MemberTest/blob/main/pic/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2%E8%B3%87%E6%96%99%E9%A9%97%E8%AD%89.PNG)
+<div align=center><img src="https://github.com/RRRRRWei/MemberTest/blob/main/pic/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2%E7%A9%BA%E7%99%BD%E9%A9%97%E8%AD%89.PNG"></div>
+<br>
+<div align=center><img src="https://github.com/RRRRRWei/MemberTest/blob/main/pic/%E8%A8%BB%E5%86%8A%E7%95%AB%E9%9D%A2%E8%B3%87%E6%96%99%E9%A9%97%E8%AD%89.PNG"></div>
 <br>
 
 * 帳號重複驗證
