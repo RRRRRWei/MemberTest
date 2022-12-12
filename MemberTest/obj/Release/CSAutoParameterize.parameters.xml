@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MemberDB-Web.config Connection String" description="MemberDB 應用程式在 web.config 中用來存取資料庫的連接字串。" defaultValue="Persist Security Info=False;Integrated Security=false;Server=membertest.database.windows.net,1433;Initial Catalog=MemberTestAzure;User ID=mydatabase;Password=Test123456789;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Coding\\asp\ net\ Exercise\\MemberTest\\MemberTest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MemberDB']/@connectionString" />
+  </parameter>
+</parameters>
